@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "ww",
+      "details": "www",
+      "category": "reminders",
+      "id": 8
+    },
+    {
+      "title": "Task 1",
+      "details": "UI/Ux",
+      "category": "todo",
+      "id": 12
+    },
+    {
+      "title": "Backend",
+      "details": "focus on Mongo",
+      "category": "reminders",
+      "id": 13
+    },
+    {
+      "title": "frontend",
+      "details": "Use MUI",
+      "category": "work",
+      "id": 14
+    },
+    {
+      "title": "Deployment",
+      "details": "Look at into the bug",
+      "category": "money",
+      "id": 15
+    }
+  ]
+}
