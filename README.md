@@ -1,6 +1,6 @@
 # Assessment
 
-A React Project with Material UI to create and maintain notes.
+A React Project with Material UI to create and maintain tasks.
 
 ## How to start
 
